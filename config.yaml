@@ -4,5 +4,7 @@ hostname: egb-m-k3s001.thuis.local
 
 k3os:
   ntp_servers:
-  - 0.eu.pool.ntp.org
-  - 1.eu.pool.ntp.org
+  - 0.europe.pool.ntp.org
+  - 1.europe.pool.ntp.org
+  - 2.europe.pool.ntp.org
+  - 3.europe.pool.ntp.org
