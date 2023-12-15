@@ -4,7 +4,7 @@ hostname: egb-m-k3s002.thuis.local
 
 k3os:
   server_url: https://k3s.egberts.local:6443
-  token: "K103f0f1004f83cd9f59d0027e41e51d230bbb134fed6982ceeb88cf7f2ef9f2c45::server:eed687d9511d63c99692fef160acf0da"
+  token: "some_token"
   ntp_servers:
   - 0.europe.pool.ntp.org
   - 1.europe.pool.ntp.org
